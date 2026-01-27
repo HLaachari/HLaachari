@@ -98,12 +98,3 @@ You can download my resume here:
   <img src="https://i.imgflip.com/65efzo.gif" alt="Animated" height="120" align="right" />
   <br clear="both" />
 </div>
-
----
-
-Thanks for visiting — if you'd like, tell me which repository you'd like summarized or what improvements you want on this README and I'll update it.
-
-<!--
-PROFILE README GENERATED: concise, professional, and responsive.
-You can adapt widgets, badges, colors and the content to match your preferred tone.
--->
