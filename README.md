@@ -4,12 +4,6 @@
 
 <div align="center">
   <h3 align="center">Software Developer • Researcher • Problem Solver</h3>
-
-  <!-- GitHub stats -->
-  <p align="center">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HLaachari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLaachari&layout=compact&langs_count=6&theme=dracula&hide_border=false" />
-  </p>
 </div>
 
 ---
@@ -17,7 +11,8 @@
 ## About me
 - 🔭 I’m currently working on practical software projects and experiments that solve real-world problems.
 - 🌱 I love learning new technologies and applying them in web & data-related projects.
-- 💬 Ask me about JavaScript, TypeScript, React, Python, and software architecture.
+- 🔭 I specialize in backend development with Symfony (PHP) and in Machine Learning (research & applied ML).
+- 💬 Ask me about JavaScript, TypeScript, Python, and software architecture.
 - 📫 Get in touch: [laachari.i2s@uhp.ac.ma](mailto:laachari.i2s@uhp.ac.ma) • [LinkedIn](https://www.linkedin.com/in/hossam-abdelghafour-laachari-ba1891257/)
 
 ---
@@ -30,25 +25,42 @@ You can download my resume here:
 
 ## Tech & Tools
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" height="30" alt="Symfony" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
 </div>
 
 ---
 
 ## Select highlights
-- ✅ Clean, component-driven front-ends using React + TypeScript.
-- ✅ API design and back-end services with Node.js and Python.
+- ✅ Clean, component-driven front-ends.
+- ✅ API design and back-end services.
 - ✅ Data cleaning, basic analysis & automation tasks.
 - ✅ CI/CD with GitHub Actions & containerization.
+- ✅ Structure ML projects as reproducible pipelines (data versioning, experiment tracking, model packaging).
+
 
 ---
 
