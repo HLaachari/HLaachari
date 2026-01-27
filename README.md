@@ -1,7 +1,8 @@
 # Hi 👋 I'm Hossam Abdelghafour Laachari
 
 > A concise, professional GitHub profile to showcase skills, stats, and quick access to my CV.
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<br>
 <div align="center">
   <h3 align="center">Software Developer • Researcher • Problem Solver</h3>
 </div>
